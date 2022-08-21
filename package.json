@@ -1,0 +1,59 @@
+{
+  
+  "name": "linked-list",
+  
+  "version": "1.0.0",
+  
+  "description": "",
+  
+  "type": "module",
+  
+  "main": "linked-list.js",
+  
+  "scripts": {
+  
+    
+  "start": "node menu"
+  
+  
+  },
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/kyu931/linked-list.git"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/kyu931/linked-list/issues"
+  
+  },
+  
+  "homepage": "https://github.com/kyu931/linked-list#readme",
+  
+  "devDependencies": {
+  
+    
+  "@babel/preset-env": "^7.18.10"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "readline-sync": "^1.4.10"
+  
+  }
+}
